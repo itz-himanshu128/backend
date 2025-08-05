@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a basic app for learning deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itz-himanshu128/backend.git"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itz-himanshu128/backend/issues"
+  },
+  "homepage": "https://github.com/itz-himanshu128/backend#readme",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  }
+}
