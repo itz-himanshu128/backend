@@ -12,9 +12,10 @@
   },
   "keywords": [
     "node",
-    "chai"
+    "chai",
+    "javascript" 
   ],
-  "author": "",
+  "author": "Himanshu",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/itz-himanshu128/backend/issues"
