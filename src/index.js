@@ -1,5 +1,34 @@
-import mongoose from "mongoose";
+// require('dotenv').config({path: './env'})       => we can do this or 
 
+// import mongoose from "mongoose";
+// import connectDB from "./db";
+import dotenv from 'dotenv'
+import connectDB from "./db/index.js";
+
+dotenv.config({
+    path:'./env'
+})
+
+
+connectDB()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 import express from "express"
 (async()=>{
     try {
@@ -18,3 +47,5 @@ import express from "express"
         
     }
 })()
+
+*/
